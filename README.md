@@ -9,7 +9,11 @@ various commands using a web project.
 
 ## Purpose
 
+Provide simple examples for Git training demos.
+
 ## Deployment
+
+On any web server or local filesystem.
 
 ## How to contribute
 
