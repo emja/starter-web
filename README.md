@@ -17,3 +17,7 @@ On any web server or local filesystem.
 
 ## How to contribute
 
+## Copyright
+
+Copyrighht msg would go here
+
