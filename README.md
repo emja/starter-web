@@ -17,6 +17,8 @@ On any web server or local filesystem.
 
 ## How to contribute
 
+Fork and pull
+
 ## Copyright
 
 Copyrighht msg would go here
